@@ -1,2 +1,2 @@
-# -zephyr-jenkinsci-docker
-Docker image foe Jenkins based CI/CD
+# zephyr-jenkinsci-docker
+Docker image for Jenkins based CI/CD
